@@ -2,20 +2,39 @@
 
 ## Authors
 
-### Developer:
 
-**Weixuan Liu**  
+**Weixuan Liu (Developer)** 
 - **Email:** weixuan.liu@cuanschutz.edu  
 - **Affiliation:** University of Colorado Anschutz Medical Campus/Department of Biostatistics and Informatics  
 - **GitHub:** [liuweix1](https://github.com/liuweix1/)  
 
+**author 1 Name**  
+- **Email:** developer1.email@example.com  
+- **Affiliation:** Institution/Company Name  
+- **GitHub:** [developer1-github-username](https://github.com/developer1-github-username)  
 
 
+**author 2 Name**  
+- **Email:** developer1.email@example.com  
+- **Affiliation:** Institution/Company Name  
+- **GitHub:** [developer1-github-username](https://github.com/developer1-github-username)  
 
+**author 3 Name**  
+- **Email:** developer1.email@example.com  
+- **Affiliation:** Institution/Company Name  
+- **GitHub:** [developer1-github-username](https://github.com/developer1-github-username)
 
+**author 4 Name**  
+- **Email:** developer1.email@example.com  
+- **Affiliation:** Institution/Company Name  
+- **GitHub:** [developer1-github-username](https://github.com/developer1-github-username)
 
+**author 5 Name**  
+- **Email:** developer1.email@example.com  
+- **Affiliation:** Institution/Company Name  
+- **GitHub:** [developer1-github-username](https://github.com/developer1-github-username)  
 
-
+## Description
 
 SmCCNet is a canonical correlation analysis-based method for discovering (quantitative) trait-specific multi-omics networks. The method allows the integration of multiple data types and a quantitative phenotypic trait. It incorporates a feature subsampling scheme to improve the robustness of the canonical weights. 
 

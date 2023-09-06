@@ -1,4 +1,4 @@
-# SmCCNet: Unsupervised Learning Pipeline for Multi-Omics Network Inference
+# SmCCNet: Unsupervised Learning Pipeline for Multi-Omics Network Inference 
 
 ## Authors
 

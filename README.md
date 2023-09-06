@@ -5,7 +5,7 @@ To install and use the package, you may download the directory or follow the ins
 ```{r, install-and-example}
 # Install package
 if (!require("devtools")) install.packages("devtools")
-devtools::install_github("KechrisLab/SmCCNet")
+devtools::install_github("liuweix1/SmCCNet")
 
 # Load package
 library(SmCCNet)
